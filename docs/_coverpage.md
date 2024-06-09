@@ -10,5 +10,5 @@
 [![forks](https://badgen.net/github/forks/dongzl/netty-handbook?icon=github&color=4ab8a1)](https://github.com/dongzl/netty-handbook)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-[GitHub](https://github.com/dongzl/netty-handbook/)
+[GitHub](https://github.com/Milory/netty-handbook/)
 [Get Started](README.md)
